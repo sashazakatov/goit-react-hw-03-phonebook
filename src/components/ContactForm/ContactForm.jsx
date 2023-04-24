@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import css from './ContactForm.module.css'
 
 class ContactForm extends Component{
-    static propType = {
+    static propTypes = {
         onSubmit: PropTypes.func.isRequired,
     }
     state = {
