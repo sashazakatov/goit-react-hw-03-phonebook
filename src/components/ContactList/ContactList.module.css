@@ -1,0 +1,30 @@
+.list{
+    margin-top: 40px;
+    padding: 10px, 5px;
+    background-color: aquamarine;
+}
+.item{
+    display: inline-flex;
+    justify-content: space-between;
+    background-color: aqua;
+    border: 1px solid grey;
+    width: 500px;
+    padding: 5px, 10px;
+}
+
+/* .form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.button{
+    width: 100px;
+}
+.lable{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.input{
+    width: 200px;
+} */
